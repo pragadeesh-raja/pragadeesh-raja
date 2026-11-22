@@ -1,5 +1,5 @@
 
-# Hi, I'm Pragadeesh R 👋
+# Hi, I'm Pragadeesh R 
 
 ### Electronics & Communication Engineering Student | Embedded Systems | Robotics | IoT
 
@@ -20,21 +20,9 @@ I'm an ECE student at **College of Engineering Guindy, Anna University**, passio
 
 **Tools:** STM32CubeIDE, MATLAB, Simulink, LTspice, SolidWorks, EasyEDA
 
-## 🚀 Featured Projects
-
-### 1. Guard-X – V2V Early Collision Detection System
-- Developed a vehicle-to-vehicle collision warning system using STM32 and ESP8266.
-- Integrated sensor-based distance monitoring and wireless telemetry communication.
-
-### 2. Turbo X2 – Hybrid Bicopter with Self-Balancing Bot
-- Developed a dual-mode robotic system combining a bicopter and self-balancing bot.
-- Implemented PID-based control and ESP32-based mode switching.
-
 ## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pragadeesh-raja&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pragadeesh-raja&layout=compact&theme=tokyonight)
 
 ## 🤝 Connect With Me
 
